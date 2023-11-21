@@ -1,6 +1,6 @@
 /*                      ************************************************************************
  						**               Created on: Aug 20, 2021                             **
-                        **                Author: Abdallah Taha                               **           
+                        **                Author: Ahmed Tarek                                 **           
 						**                File Name : MDIO_Interface                          **
 						**                 V 1.0                                              **
 						**         Description:Declration For All Function Of DIO             **
